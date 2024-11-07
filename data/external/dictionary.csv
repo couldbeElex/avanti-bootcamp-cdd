@@ -1,11 +1,11 @@
 variable,description,type,subtype
-preço,valor em dólares americanos (USD),quantitativa,discreta
-quilate,peso do diamante em quilates,quantitativa,discreta
-corte,"qualidade do corte (fair, good, very good, premium, ideal)",qualitativa,ordinal
-cor,"cor do diamante, de D (melhor) a J (pior)",qualitativa,ordinal
-clareza,"o quão claro (translúcido) é o diamante (I1 (pior), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (melhor)",qualitativa,ordinal
+price,valor em dólares americanos (USD),quantitativa,discreta
+carat,peso do diamante em quilates,quantitativa,discreta
+cut,"qualidade do corte (fair, good, very good, premium, ideal)",qualitativa,ordinal
+color,"cor do diamante, de D (melhor) a J (pior)",qualitativa,ordinal
+clarity,"o quão claro (translúcido) é o diamante (I1 (pior), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (melhor)",qualitativa,ordinal
 x,comprimento em milímetros (0 - 10.74),quantitativa,contínua
 y,largura em milímetros (0 - 58.9),quantitativa,contínua
 z,profundidade em milímetros (0 - 31.8),quantitativa,contínua
-profundidade,"porcentagem de profundidade total (z / mean (x, y) = 2 * z / (x + y) * (43 - 79)",quantitativa,discreta
-mesa,largura do topo do diamante relativo ao seu ponto mais largo,quantitativa,contínua
+depth,"porcentagem de profundidade total (z / mean (x, y) = 2 * z / (x + y) * (43 - 79)",quantitativa,discreta
+table,largura do topo do diamante relativo ao seu ponto mais largo,quantitativa,contínua
